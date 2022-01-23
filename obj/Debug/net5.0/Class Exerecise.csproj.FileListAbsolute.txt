@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.exe
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.deps.json
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.runtimeconfig.json
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.runtimeconfig.dev.json
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.dll
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\ref\Class Exerecise.dll
+C:\Users\user\Desktop\c#\Class Exerecise\bin\Debug\net5.0\Class Exerecise.pdb
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.AssemblyInfo.cs
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.dll
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\ref\Class Exerecise.dll
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.pdb
+C:\Users\user\Desktop\c#\Class Exerecise\obj\Debug\net5.0\Class Exerecise.genruntimeconfig.cache
